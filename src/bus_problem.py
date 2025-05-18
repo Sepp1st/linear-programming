@@ -407,7 +407,7 @@ def main():
     #print(f"M cost used for infeasible: {M_cost}")
 
     # 2. Generate the MPS file once
-    mps_filename = "../busing_problem.mps"
+    mps_filename = "busing_problem.mps"
     #generate_mps_file(mps_filename, c, A, b, con_types, dims)
 
     pd_params_for_pdf_accurate_run = {

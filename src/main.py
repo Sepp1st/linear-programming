@@ -1,7 +1,4 @@
-import bus_problem
-
-def main():
-    bus_problem.main()
+from bus_problem import main
 
 if __name__ == "__main__":
     main()
